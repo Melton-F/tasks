@@ -1,0 +1,15 @@
+{
+  "name": "express-fileupload",
+  "version": "1.0.0",
+  "description": "file upload using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "upload"
+  ],
+  "author": "Melton",
+  "license": "ISC"
+}
