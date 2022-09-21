@@ -1,0 +1,19 @@
+{
+  "name": "expressfileupload-2",
+  "version": "1.0.0",
+  "description": "express fileupload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "fileUpload"
+  ],
+  "author": "Melton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0"
+  }
+}
